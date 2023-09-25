@@ -13,3 +13,6 @@ NOTE: If you decide to use a different name/directory for the minecraft-classic 
 ## Repository has been archived.
 I decided to archive this repository since I haven't touched it since I created the repository and seeing as I am not as interested in minecraft classic
 as i was before I won't be updating this repository any longer.
+
+I forgot to mention this before so I decided to update it now and put it here, I do not own the code uploaded to this repository, I simply uploaded it to github pages to make it easier to deploy for myself which also means it needs to be public. I do not however
+remember what the original source was as it was a long time ago.
